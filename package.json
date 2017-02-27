@@ -1,0 +1,15 @@
+{
+  "name": "phinthen",
+  "version": "0.1.0",
+  "description": "thenified phin",
+  "main": "index.js",
+  "author": "azder",
+  "license": "MIT",
+  "repository": {
+    "url": "git://github.com/azder/phinthen.git",
+    "type": "git"
+  },
+  "dependencies": {
+    "phin": "^1.0.5"
+  }
+}
